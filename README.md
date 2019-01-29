@@ -35,3 +35,9 @@ npm i
 
 ![image](https://user-images.githubusercontent.com/26134303/51919573-a9ecd480-241e-11e9-9f0e-085e61a6775c.png)
 
+## joi 测试
+使用 postman 如果所示：
+
+![image](https://user-images.githubusercontent.com/26134303/51919824-313a4800-241f-11e9-8978-e4d5f30e3bfc.png)
+
+提示 orderId 只能是数字，打到 joi 验证的目的。
