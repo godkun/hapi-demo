@@ -18,3 +18,20 @@
 
 ## joi
 可以进行参数校验
+
+## 如何开始
+```
+git clone git@github.com:godkun/hapi-demo.git
+
+cd hapi-demo/server
+
+npm i
+
+```
+
+然后将 `.env.sample` 文件重命名为 .env 然后执行 node app.js 就可以启动服务了。
+
+打开 http://127.0.0.1:3000/documentation#/ 查看 swagger 效果
+
+![image](https://user-images.githubusercontent.com/26134303/51919573-a9ecd480-241e-11e9-9f0e-085e61a6775c.png)
+
