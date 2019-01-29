@@ -1,6 +1,7 @@
 const env = require('env2')('./.env')
 const Hapi = require('hapi')
 const config = require('./config')
+// API 路由
 const routesHelloHapi = require('./routes/hello-hapi')
 const routesShopHapi = require('./routes/shops')
 const routesOrderHapi = require('./routes/orders')
